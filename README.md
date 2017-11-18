@@ -1,0 +1,2 @@
+# kompi
+safelink
